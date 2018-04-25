@@ -1,0 +1,59 @@
+ul {
+	list-style-type: none;
+	margin: 0px auto;
+}
+li {
+	margin:auto 0px;
+	padding:3px;
+}
+form{
+	padding:20px;
+	margin:0px auto;
+
+}
+body{
+	width:980px;
+	
+	margin:0px auto;
+}
+h1{
+	text-align: center;
+}
+hr{
+	color:black;
+}
+.completed-task{
+	text-decoration:line-through;
+}
+.whole-container{
+	width:680px;
+	margin:0px auto;
+}
+.show-mode{
+	margin:5px;
+}
+.actions {
+	
+}
+.hide-actions{
+	display:none;
+}
+.ul-container{
+	width:480px;
+	border-radius: 5px;
+	margin:0px auto;
+
+}
+.form-li-container{
+	margin:5px;
+	border:1px gray solid;
+	border-radius:3px;
+	width:300px;
+	margin:0px auto;
+	background-color:#FAF2AD
+}
+.actions-container{
+	width:78%;
+	margin:0px auto;
+
+}
